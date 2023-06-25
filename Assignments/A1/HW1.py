@@ -1,6 +1,8 @@
 from array import *
 import math
 
+#test
+
 def get_distance(arr):
     total = 0
     index = 0
